@@ -1,18 +1,4 @@
-// let type = document.querySelector(".type");
-// let typeCount = type.innerHTML;
-// let countStrat = 0;
-// type.innerHTML = "";
-// function typeJs() {
-//   type.innerHTML += typeCount[countStrat];
-//   countStrat++;
-//   if (countStrat == typeCount.length) {
-//     countStrat = 0;
-//     type.innerHTML = "";
-//   }
-// }
-// let stop = setInterval(() => {
-//   typeJs();
-// }, 500 / 2);
+
 let box = document.querySelector(".box");
 let btn = document.querySelector(".btn");
 let list = document.querySelector(".list");
